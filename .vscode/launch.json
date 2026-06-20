@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IfElseExample",
+            "request": "launch",
+            "mainClass": "conditionalStatements.IfElseExample",
+            "projectName": "Java-Backend_68b38830"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "staticContext.Demo",
+            "projectName": "Java-Backend_68b38830"
+        }
+    ]
+}
