@@ -1,6 +1,6 @@
 package methods;
 
-public class MethodsEx {
+class MethodsEx {
 
     // Example for a Java method : static method
     public static int addNumbers(int a, int b) {
