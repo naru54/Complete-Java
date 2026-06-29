@@ -1,4 +1,4 @@
-package finalKeywordEx;
+package keywords;
 public class finalKeyword {
     public static void main(String[] args) {
         final int x = 10; // Declare a final variable
