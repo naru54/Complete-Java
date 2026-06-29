@@ -1,3 +1,4 @@
+package typeCasting;
 
 public class typeConversion {
     public static void main(String[] args) {
