@@ -13,6 +13,10 @@ public class datatypes {
 
         // Non-Primitive Data Type
         String myText = "Hello"; // String
+        
+        //interface, class, and array are also non-primitive data types. 
+        // object is also a non-primitive data type, but it is not a data type itself. 
+        // It is a class that can be used to create objects.
 
         System.out.println("byte: " + myByte);
         System.out.println("short: " + myShort);
